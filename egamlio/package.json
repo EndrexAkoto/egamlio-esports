@@ -9,18 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/node": "20.1.0",
-    "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
     "apexcharts": "^3.40.0",
+    "axios": "^1.7.2",
     "bootstrap": "^5.2.3",
-    "next": "13.4.1",
-    "react": "18.2.0",
+    "next": "^14.2.4",
+    "react": "^18.2.0",
     "react-apexcharts": "^1.4.0",
     "react-calendar": "^4.2.1",
     "react-countup": "^6.4.2",
     "react-datepicker": "^4.11.0",
-    "react-dom": "18.2.0",
+    "react-dom": "^18.2.0",
     "react-inner-image-zoom": "^3.0.2",
     "react-modal-video": "^2.0.0",
     "react-range-slider-input": "^3.0.7",
@@ -31,14 +30,17 @@
     "sass": "^1.62.1",
     "slick-carousel": "^1.8.1",
     "swiper": "^9.2.4",
-    "typescript": "5.0.4"
+    "use-isomorphic-layout-effect": "^1.1.2"
   },
   "devDependencies": {
     "@types/bootstrap": "^5.2.6",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
     "@types/react-datepicker": "^4.11.2",
     "@types/react-inner-image-zoom": "^3.0.0",
     "@types/react-modal-video": "^1.2.0",
     "@types/react-slick": "^0.23.10",
-    "@types/swiper": "^6.0.0"
+    "@types/swiper": "^6.0.0",
+    "typescript": "^5.4.5"
   }
 }
